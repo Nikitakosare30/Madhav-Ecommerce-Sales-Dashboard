@@ -6,4 +6,4 @@ Analyze Ecommerce sales data created are interacting dahsbourd using power BI
 
 <h3>Sales Overview DASHBOARD</h3>
 
-<img src="sales dashboard.png">
+<img src="sales dashboard power bi.png">
